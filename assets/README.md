@@ -12,7 +12,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <img alt="Calendario de jogos da Copa" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=693399">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=693399">
 </p>
 
 <br>
