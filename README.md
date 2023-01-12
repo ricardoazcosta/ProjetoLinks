@@ -12,16 +12,16 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 </p>
 
 <p align="center">
-  <img alt="Calendario de jogos da Copa" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="Calendario de jogos da Copa" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=693399">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="rocketpay" src=".github/preview.jpg" width="100%">
+  <img alt="links" src=".github/preview.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 As Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -29,13 +29,14 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - Git e Github
 
-## 💻 Projeto
+## 💻 O Projeto
 
-O Calendário da Copa é um projeto que mostra os jogos da Copa do Mundo do Qatar 2022.
+O Projeto é como uma Pagina de Links <br> Também tem como finalidade de colocar os conhecimentos em HTML | CSS | JAVASCRIPT.<br>
+O projeto conta com um button toggle que ao clica-lo o layout muda!
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/AnqTWGknAVwnnK0RHafEqR/Calend%C3%A1rio-de-Jogos-(Community)?node-id=301%3A1812>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/IPOD06d2HCZOfX0YLlBQdo/DevLinks-(Community)-(Copy)?t=MG5lYTAKYOd7gYFn-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
