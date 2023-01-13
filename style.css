@@ -28,6 +28,7 @@
 }
 
 body {
+    height: 100vh;
     color: var(--text-color);
     background: var(--bg-url) no-repeat top center/cover;
 }
