@@ -78,12 +78,16 @@ body {
     position: absolute;
     z-index: 1;
     left: 0;
+    animation: slide-out 0.2s;
 
 }
 
+#switch button:hover{
+    outline: 8px solid var(--heightlight-color);
+}
+
 .light #switch button{
-    left:initial;
-    right: 0;
+   animation: slide-in 0.4s forwards;
    
 }
 
@@ -161,3 +165,18 @@ footer {
     
 }
 
+@keyframes slide-in{
+from {
+    left:0;
+}to{
+    left: 50%;
+}
+}
+
+@keyframes slide-out{
+    from{
+        left: 50%;
+    }to{
+        left:0;
+    }
+}
